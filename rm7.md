@@ -62,9 +62,13 @@
 ---
 
 ## 🐍 GitHub Snake Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaitanya21kumar/snk/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <picture>
+    <!-- dark-mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaitanya21kumar/snk/output/snake-dark.svg">
+    <!-- light-mode -->
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/chaitanya21kumar/snk/output/snake-light.svg">
+  </picture>
 </p>
 
 
