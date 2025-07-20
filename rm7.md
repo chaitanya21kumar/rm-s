@@ -21,7 +21,7 @@
 - 🛠️ Built multiple production-ready platforms solving real-world problems
 - 🔐 Deep understanding of **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
 - 📊 Currently building **ContestPulse** & a **Decentralized Voting System**
-- 🎯 Solved **700+ DSA problems** across CF, CC, LC, GFG | Total Active Days: **270+**
+- 🎯 Solved **720+ DSA problems** across CF, CC, LC, GFG | Total Active Days: **270+**
 
 ---
 
