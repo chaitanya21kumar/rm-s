@@ -46,7 +46,7 @@
 
 - 🧠 **Codeforces**: Max Rating **1206 (Pupil)** | 279+ Problems  
 - ✅ **CodeChef**: 3★ (1717), **Global Rank 15** in Starters 192  
-- 📘 Solved **700+ DSA problems** across CF/CC/LC/GFG  
+- 📘 Solved **720+ DSA problems** across CF/CC/LC/GFG  
 - ☁️ **Google Cloud Arcade Champion** (75+ Points)  
 - 🥉 Top 12 in **TPC CP Contest** (IIITDMJ)
 
