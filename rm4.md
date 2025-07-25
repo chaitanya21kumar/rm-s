@@ -21,7 +21,7 @@
 - 💡 Built & scaled full-stack products used by 250+ users
 - 🔐 Strong grip over **Ethereum**, BIPs, PSBTs, MetaMask auth
 - 📈 Creator of **ContestPulse** & **Decentralized Voting System**
-- 📘 Solved **600+ DSA problems** across CF/CC/LC/GFG
+- 📘 Solved **700+ DSA problems** across CF/CC/LC/GFG
 
 ---
 
