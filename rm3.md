@@ -21,7 +21,7 @@
 - 🛠️ Building production-grade apps solving real-world problems
 - 🔐 Smart contract dev with **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
 - 🌍 Creator of **ContestPulse** & **Decentralized Voting Platform**
-- 📊 Solved **600+ DSA problems** on CF/CC/LC/GFG | Active Days: **250+**
+- 📊 Solved **700+ DSA problems** on CF/CC/LC/GFG | Active Days: **250+**
 
 ---
 
