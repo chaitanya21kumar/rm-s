@@ -1,7 +1,7 @@
 <!-- WAVE HEADER -->
 <h1 align="center">Hey there, I'm Chaitanya Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-<h3 align="center">🌐 2nd-Year CSE @ IIITDM Jabalpur • Blockchain Dev • Web Dev • CP Enthusiast</h3>
+<h3 align="center">🌐 3rd-Year CSE @ IIITDM Jabalpur • Blockchain Dev • Web Dev • CP Enthusiast</h3>
 <h4 align="center"><i>“Building Reliable Systems for a Decentralized Future.”</i></h4>
 
 ---
@@ -23,7 +23,7 @@
 - 🛠️ Built multiple production-ready platforms solving real-world problems
 - 🔐 Deep understanding of **Ethereum**, **Bitcoin internals**, BIPs, and PSBTs
 - 📊 Currently building **ContestPulse** & a **Decentralized Voting System**
-- 🎯 Solved **600+ DSA problems** across CF, CC, LC, GFG | Total Active Days: **250+**
+- 🎯 Solved **700+ DSA problems** across CF, CC, LC, GFG | Total Active Days: **250+**
 
 ---
 
